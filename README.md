@@ -20,7 +20,7 @@
   ## Installation Steps
   Install MySQL2, Express, Sequelize and dotenv
   ## Instructions
-  Use 'NPM start' to start the server and use a program such as Insomnia to test routes, or use your browser at localhost:3001
+  Use 'npm run seed' to seed the database then use 'npm start' to start the server and use a program such as Insomnia to test routes, or use your browser at localhost:3001
   ## Contributors
   Jason Bailey
   ## Testing Parameters
